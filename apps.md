@@ -1,5 +1,9 @@
 # Apps
 
+* curl
+    ```bash
+    sudo apt install curl
+    ```
 * [Visual Studio Code](https://code.visualstudio.com/docs/setup/linux)
 
     ```bash
@@ -46,4 +50,12 @@
     sudo apt-get update
 
     sudo apt-get install dotnet-sdk-3.1
+    ```
+
+* [Node.js](https://github.com/nodesource/distributions/blob/master/README.md#installation-instructions)
+
+    ```bash
+    curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -
+
+    sudo apt-get install -y nodejs
     ```
