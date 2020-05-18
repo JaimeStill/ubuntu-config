@@ -28,4 +28,6 @@
     sudo apt install git
     ```
 
+    * `git config --global credential.helper store` - store git credentials
+
 * [Discord](https://discord.com/download)
