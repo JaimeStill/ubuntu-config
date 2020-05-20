@@ -7,7 +7,7 @@
 * [Visual Studio Code](https://code.visualstudio.com/docs/setup/linux)
 
     ```bash
-    sudo snap install --classic -code
+    sudo snap install --classic code
     ```
 
 * [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-365/microsoft-teams/download-app)
@@ -69,26 +69,6 @@
 
     sudo apt update && sudo apt install yarn
     ```
-
-* [Open Razer](https://openrazer.github.io/#download)
-
-    ```bash
-    sudo add-apt-repository ppa:openrazer/stable
-
-    sudo apt update
-
-    sudo apt install openrazer-meta
-    ```
-
-    * [Polychromatic](https://polychromatic.app/download/ubuntu/)
-
-        ```bash
-        sudo add-apt-repository ppa:polychromatic/stable
-
-        sudo apt update
-
-        sudo apt install polychromatic
-        ```
 
 * [rEFInd](https://www.rodsbooks.com/refind/installing.html)
 
