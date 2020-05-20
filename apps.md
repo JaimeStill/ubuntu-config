@@ -69,3 +69,37 @@
 
     sudo apt update && sudo apt install yarn
     ```
+
+* [Open Razer](https://openrazer.github.io/#download)
+
+    ```bash
+    sudo add-apt-repository ppa:openrazer/stable
+
+    sudo apt update
+
+    sudo apt install openrazer-meta
+    ```
+
+    * [Polychromatic](https://polychromatic.app/download/ubuntu/)
+
+        ```bash
+        sudo add-apt-repository ppa:polychromatic/stable
+
+        sudo apt update
+
+        sudo apt install polychromatic
+        ```
+
+* [rEFInd](https://www.rodsbooks.com/refind/installing.html)
+
+    > [AskUbuntu - Any Downside to Using rEFInd Instead of GRUB](https://askubuntu.com/questions/760875/any-downside-to-using-refind-instead-of-grub)
+
+    ```bash
+    sudo apt-add-repository ppa:rodsmith/refind
+
+    sudo apt-get update
+
+    sudo apt-get install refind
+    ```
+
+    > [rEFInd-ultra](https://github.com/JaimeStill/rEFInd-ultra)
