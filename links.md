@@ -12,3 +12,4 @@
     * [Start a Service on Boot](https://linuxconfig.org/how-to-start-service-on-boot-on-ubuntu-20-04)
     * [List all Services](https://linuxconfig.org/ubuntu-20-04-list-services)
 * [Install NVIDIA Drivers](https://linuxconfig.org/how-to-install-the-nvidia-drivers-on-ubuntu-20-04-focal-fossa-linux)
+* [Install Pop Shell Tiling](https://www.linuxuprising.com/2020/05/how-to-install-pop-shell-tiling.html)
