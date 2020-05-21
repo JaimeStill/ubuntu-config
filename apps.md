@@ -33,6 +33,8 @@
     ```
 
     * `git config --global credential.helper store` - store git credentials
+    * `git config --global user.email {email}` - set email
+    * `git config --global user.name {name}` - set name
 
 * [Discord](https://discord.com/download)
 
@@ -68,6 +70,14 @@
     echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
 
     sudo apt update && sudo apt install yarn
+    ```
+
+* [steam](https://linuxconfig.org/how-to-install-steam-on-ubuntu-20-04-focal-fossa-linux)
+
+    ```bash
+    sudo add-apt-repository multiverse
+
+    sudo apt update && sudo apt install steam
     ```
 
 * [rEFInd](https://www.rodsbooks.com/refind/installing.html)
