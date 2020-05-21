@@ -27,3 +27,15 @@
 
     docker run hello-world
     ```
+
+* [Docker Compose](https://linuxconfig.org/how-to-install-docker-compose-on-ubuntu-20-04-focal-fossa-linux)
+
+    ```bash
+    sudo apt install docker-compose
+
+    docker-compose version
+    ```
+
+* [Kubernetes](https://linuxconfig.org/how-to-install-kubernetes-on-ubuntu-20-04-focal-fossa-linux)
+
+    > Not installed, just here for future reference

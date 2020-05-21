@@ -82,6 +82,8 @@
 
 * [rEFInd](https://www.rodsbooks.com/refind/installing.html)
 
+    > Not installed, just here for future reference.
+
     > [AskUbuntu - Any Downside to Using rEFInd Instead of GRUB](https://askubuntu.com/questions/760875/any-downside-to-using-refind-instead-of-grub)
 
     ```bash
