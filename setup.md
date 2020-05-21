@@ -1,5 +1,13 @@
 # Setup
 
+* Remove Desktop Icons
+
+    ```bash
+    sudo apt install gnome-tweak-tool
+    ```
+
+    > Open **Tweaks** app. `Extensions -> Desktop Icons Settings`
+
 * [Install Third-Party Codecs & Extras](https://linuxconfig.org/things-to-do-after-installing-ubuntu-20-04-focal-fossa-linux#h3-3-install-third-party-codecs-extras)
 
     ```bash
