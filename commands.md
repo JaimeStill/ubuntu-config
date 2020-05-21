@@ -28,6 +28,14 @@
 
 * `fc-cache -f -v` - rebuild the font cache.
 
+* `apt list --installed` - list all packages installed by **apt**
+
+* `dpkg -l | grep ^ii` - list all installed packages
+
+* `dpkg -l | grep ^ii | wc -l` - count all installed packages
+
+* `dpkg -l | grep ^ii | grep -i ubuntu-server` - search for a package to see if it's installed.
+
 * Create a file named `file1` and directory `dir1`
 
 	```bash
